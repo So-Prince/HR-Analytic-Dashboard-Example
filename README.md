@@ -1,0 +1,8 @@
+# HR-Analytic-Dashboard-Example
+The HR Analytics project involved cleaning, organizing, and analyzing employee data to provide meaningful insights into workforce demographics, compensation, and employee characteristics. Using Microsoft Excel, the raw dataset comprising 1,480 employee records across 38 HR-related variables was transformed into an interactive analytical dashboard supported by Pivot Tables and summarized visualizations.
+
+The analysis explored key workforce metrics including employee distribution by gender, age group, marital status, job role, education field, and department. Salary-related analysis was also conducted by aggregating monthly income across education fields and examining compensation measures such as daily, hourly, and monthly rates. Operational metrics such as overtime participation, employee counts across job roles, and workforce composition were summarized to provide management with an overview of the organization's human capital.
+
+The dashboard presents these insights in a structured and easy-to-understand format, enabling stakeholders to quickly identify workforce patterns, compare employee groups, and support evidence-based HR decision-making. The use of Pivot Tables enhances the flexibility of the analysis by allowing dynamic filtering and summarization of large datasets.
+
+Overall, the project demonstrates effective application of Excel's data analysis capabilities, including data organization, Pivot Tables, aggregation functions, and dashboard reporting, resulting in a practical tool for monitoring workforce trends and supporting strategic HR planning.
